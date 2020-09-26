@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 # Installation steps:
- 1. change the EndPoint Url  in ```src\app\environments\emvironment.ts```
+ 1. change the EndPoint Url  in ```src\app\environments\environment.ts```
 
 ## Development server
 
